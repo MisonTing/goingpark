@@ -1,0 +1,25 @@
+#container{
+	background: #eeeeee;
+	overflow-y: scroll;
+	overflow-x:hidden ;
+}
+
+.tab_bar{
+	z-index: 999;
+}
+.tab_bar .col-xs-3{
+	text-align: center;
+}
+.tab_bar .col-xs-3 span{
+	margin-top:10px;
+	font-size: 16px;
+	color:#999999;
+}
+.tab_bar .col-xs-3 p{
+	font-size: 16px;
+	margin-bottom:5px;
+	color:#666666;
+}
+.tab_bar .col-xs-3.selected p,.tab_bar .col-xs-3.selected span{
+	color: #f56e6a;
+}

@@ -1,0 +1,51 @@
+.swiper{
+	width:100%;
+	/*overflow: hidden;*/
+	margin-bottom:20px;
+}
+.swiper .img_box{
+	/*position:absolute;*/
+	width:300%;
+}
+.swiper .img_box img{
+	width:33.33333%;
+}
+
+.zhunaqu{
+	width:100%;
+}
+.zhuanqu a{
+	display: block;
+	float:left;
+	width:49.5%;
+}
+.zhuanqu a:last-child{
+	float:right;
+}
+.zhuanqu a img{
+	width:100%;
+}
+
+.jctj{
+	height:50px;
+}
+.jctj img{
+	height:100%;
+	display: block;
+	margin:0 auto;
+}
+
+.jctj_list{
+	width:100%;
+}
+.jctj_list img{
+	width:100%;
+	margin-bottom:10px;
+}
+
+
+
+
+
+
+
